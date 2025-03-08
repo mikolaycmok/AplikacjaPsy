@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<<<<<<< HEAD
-
-    <style name="Theme.Pieski" parent="android:Theme.Material.Light.NoActionBar" />
-=======
-    <style name="Theme.Dogs" parent="android:Theme.Material.Light.NoActionBar" />
->>>>>>> 02d750f (initial commit)
-</resources>
